@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="279dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:background="@drawable/bg_dialog_telephone">
+
+        <TextView
+            android:id="@+id/dialog_title"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:text="过关"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:textSize="17sp"
+            android:textColor="#000"/>
+
+        <ImageView
+            android:id="@+id/iv_gif"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginBottom="20dp"></ImageView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#f1f1f1"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/btn_one"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="进入下一关"
+                android:padding="15dp"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:textColor="#2696f0"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

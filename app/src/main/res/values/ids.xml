@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="sheepview_imageview_location"></item>
+    <item type="id" name="sheepview_imageview_degree"></item>
+    <item type="id" name="sheepview_imageview_picrescoure"></item>
+</resources>

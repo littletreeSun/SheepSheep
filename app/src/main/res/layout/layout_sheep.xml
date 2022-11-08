@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/rl_alllayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:background="#cffb99">
+
+        <com.coorchice.library.SuperTextView
+            android:id="@+id/stv_container"
+            android:layout_width="290dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="20dp"
+            app:stv_corner="5dp"
+            app:stv_solid="#8d5e2a"
+            app:stv_stroke_color="#b8843e"
+            app:stv_stroke_width="5dp"></com.coorchice.library.SuperTextView>
+        </RelativeLayout>
+</layout>
