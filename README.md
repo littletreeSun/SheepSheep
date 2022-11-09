@@ -1,8 +1,5 @@
 # SheepSheep
-![示例图](https://raw.githubusercontent.com/littletreeSun/Resource-Catalog/main/gif/ezgif.com-gif-maker_1.gif)
-![示例图](https://raw.githubusercontent.com/littletreeSun/Resource-Catalog/main/gif/ezgif.com-gif-maker_2.gif)
-![示例图](https://raw.githubusercontent.com/littletreeSun/Resource-Catalog/main/gif/ezgif.com-gif-maker_3.gif)
-![示例图](https://raw.githubusercontent.com/littletreeSun/Resource-Catalog/main/gif/ezgif.com-gif-maker_4.gif)
+![示例图](https://raw.githubusercontent.com/littletreeSun/Resource-Catalog/main/gif/ezgif.com-gif-maker_5.gif)
 
 ·羊了个羊 Android版
 
